@@ -1,5 +1,5 @@
 # Fraud Detection Model with GCP Pipeline
-This project aims to build a decent fraud detection model using a Kaggle dataset, employing advanced machine learning techiniques. The end-to-end pipeline for data processing, model training, and deployment is developed on Google Cloud Platform (GCP) with a Dockerized workflow, making it scalable and easy to manage. The focus of this project is mainly on developing a simple end-to-end GCP Pipeline that automates every stage of the machine learning workflow, from data ingestion and preprocessing to model training, evaluation, and deployment. 
+In this project, I have build a decent fraud detection model using advanced machine learning techiniques. The end-to-end pipeline for data processing, model training, and deployment is developed on Google Cloud Platform (GCP) with a Dockerized workflow, making it scalable and easy to manage. The focus of this project is mainly on developing a simple end-to-end GCP Pipeline that automates every stage of the machine learning workflow, from data ingestion and preprocessing to model training, evaluation, and deployment. 
 
 ## Project Overview:
 Data Acquisition: The dataset is sourced from Kaggle, and can be found here: https://www.kaggle.com/competitions/ieee-fraud-detection/overview
